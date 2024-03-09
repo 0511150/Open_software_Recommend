@@ -13,3 +13,6 @@ Just download released software and install.For more support, pls go youtube.com
 --Memory Cleaner
 WinMemoryCleaner
 https://github.com/IgorMundstein/WinMemoryCleaner/
+![image](https://github.com/0511150/Open_software_Recommend/assets/57094916/312f7b27-d772-4e16-b127-2e0a1ada86e7)
+Way to use:
+Just download and install,it is extremely easy.
